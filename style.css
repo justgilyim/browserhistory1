@@ -1,23 +1,11 @@
 body{
     font-family: 'Open Sans', sans-serif;
-    color: darkblue;
+    color: white;
     margin: 10px 50px 10px 50px;
-    background-color: ivory;
+    background-color: black;
 }
-
-#navBar ul{
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
-
-#navBar li{
-    display: inline;
-}
-
-#navBar a{
-    margin-left: 75px;
-    margin-right: 75px;
+.browser{
+    float: left;
 }
 
 h1, h2{
