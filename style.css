@@ -1,48 +1,14 @@
-body{
-    font-family: 'Open Sans', sans-serif;
-    color: darkblue;
-    margin: 10px 50px 10px 50px;
-    background-color: ivory;
+body {
+  padding-top: 50px;  /* Move body of page below navbar. */
 }
 
-#navBar ul{
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
+.page-content {
+  padding: 10px;
+  text-align: center;
 }
 
-#navBar li{
-    display: inline;
+img {
+  float: left;
+  margin-right: 10px;
 }
 
-#navBar a{
-    margin-left: 75px;
-    margin-right: 75px;
-}
-
-h1, h2{
-    font-family: 'Oswald', sans-serif;
-}
-
-img{
-    float: left;
-    margin-right: 10px;
-}
-
-.left{
-    float: left;
-    width: 300px;
-    padding: 1em;
-}
-
-.right{
-    float: right;
-    width: 300px;
-    padding: 1em;
-}
-
-.center{
-    margin-left: 300px;
-    margin-right: 300px;
-    padding: 1em;
-}
